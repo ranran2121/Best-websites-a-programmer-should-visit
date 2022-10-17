@@ -60,6 +60,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
 - [Stack Exchange](https://stackexchange.com/) : Stack Exchange is the combination of Stack Overflow and 170+ sites where you can get any kinds of help
 - [Coderanch](https://coderanch.com/) : A friendly place for programming greenhorns. Jump straight into any of our topics and light hearted discussions. Ranging from Java, Databases, Android, Programmer certification, Programming jobs and much more...
+- [Say Hello] (https://beta.sayhello.so/)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -371,6 +372,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
 - [Pluralsight](https://www.pluralsight.com) : An online learning and workforce development platform that helps businesses and individuals adjust to changing technology.
+- [CodeSmith] (https://www.codesmith.io/javascript-resources)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
